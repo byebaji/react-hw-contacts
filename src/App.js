@@ -9,7 +9,7 @@ export const App = () => {
 			<div className='container'>
 				<div className='input-group'>
 					<ContactForm />
-					<div className='line'></div>
+					<div className='content'></div>
 					<Filter />
 				</div>
 				<ContactList />
