@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f1a21c3.css",
-    "main.js": "/static/js/main.5097e1f1.js",
-    "index.html": "/index.html",
-    "main.5f1a21c3.css.map": "/static/css/main.5f1a21c3.css.map",
-    "main.5097e1f1.js.map": "/static/js/main.5097e1f1.js.map"
+    "main.css": "/react-hw-contacts/static/css/main.5f1a21c3.css",
+    "main.js": "/react-hw-contacts/static/js/main.5097e1f1.js",
+    "index.html": "/react-hw-contacts/index.html",
+    "main.5f1a21c3.css.map": "/react-hw-contacts/static/css/main.5f1a21c3.css.map",
+    "main.5097e1f1.js.map": "/react-hw-contacts/static/js/main.5097e1f1.js.map"
   },
   "entrypoints": [
     "static/css/main.5f1a21c3.css",
